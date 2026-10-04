@@ -168,3 +168,27 @@ Pada langkah 3 dan 4, yang benar justru lanjut. Pada langkah 6 dan 7, yang benar
 - Nomor ada di data?
 > Benar: del data[nomor] menghapus data, lalu program mencetak "Data berhasil dihapus.".
 > Salah: cetak "Nomor data tidak ditemukan!".
+
+<img width="1366" height="728" alt="MINI_PROJECT2_DDP py - Visual Studio Code 10_4_2026 9_50_48 PM" src="https://github.com/user-attachments/assets/2109cb35-522b-4d2b-be33-1a3318424717" />
+
+BERIKUT ADALAH HASIL OUTPUT ADMIN PADA NOMOR **1**.
+
+<img width="1366" height="728" alt="MINI_PROJECT2_DDP py - Visual Studio Code 10_4_2026 9_51_43 PM" src="https://github.com/user-attachments/assets/a35321ac-2446-4225-b312-0b63dd804273" />
+
+BERIKUT ADALAH HASIL OUTPUT ADMIN PADA NOMOR **2**.
+
+<img width="1366" height="728" alt="MINI_PROJECT2_DDP py - Visual Studio Code 10_4_2026 9_53_47 PM" src="https://github.com/user-attachments/assets/136022be-48e2-4f5b-863e-4d328b3e27b4" />
+
+BERIKUT ADALAH HASIL OUTPUT ADMIN PADA NOMOR **3**.
+
+<img width="1366" height="728" alt="MINI_PROJECT2_DDP py - Visual Studio Code 10_4_2026 9_54_03 PM" src="https://github.com/user-attachments/assets/f0f027dd-cc86-4229-b9bb-0612f9e505a1" />
+
+BERIKUT ADALAH HASIL OUTPUT ADMIN PADA NOMOR **4**.
+
+<img width="1366" height="728" alt="MINI_PROJECT2_DDP py - Visual Studio Code 10_4_2026 9_54_12 PM" src="https://github.com/user-attachments/assets/3ee5c84c-52f1-4dc3-9298-12575e831ea0" />
+
+BERIKUT ADALAH HASIL OUTPUT ADMIN PADA NOMOR **0** BEGITUPUN JUGA HASIL OUTPUT PADA USER.
+
+<img width="1366" height="728" alt="MINI_PROJECT2_DDP py - Visual Studio Code 10_4_2026 9_54_51 PM" src="https://github.com/user-attachments/assets/c850ff6d-ca23-43a2-9ec3-74511720e661" />
+
+BERIKUT ADALAH HASIL OUTPUT USER PADA NOMOR **1**.
